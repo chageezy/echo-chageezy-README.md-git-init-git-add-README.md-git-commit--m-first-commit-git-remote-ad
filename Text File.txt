@@ -1,0 +1,2 @@
+
+I have made things a little more convenient for [GitHub](https://github.com), [BitBucket](https://bitbucket.org), [GitLab](https://gitlab.com) and [Gogs](https://gogs.io) users but you can use any modern Git hosting service or your own Git server
